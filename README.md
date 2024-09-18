@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a passionate developer with a deep love for A
 <br>
 
 
-## 🚀 **Noteworthy Projects**
+## 🚀 **Academic Projects**
 
 <table>
   <tr>
