@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I am a passionate developer with a deep love for A
     <td width="50%" valign="top">
       <h3>🧠 NeuroVox</h3>
       <p><i>"A Voice That Understands, A Mind That Heals"</i></p>
-      <p><strong>Role:</strong> Lead Developer | <strong>Tools:</strong> TensorFlow, Transfer Learning</p>
+      <p><strong>Role:</strong> Developer & Data Engineer | <strong>Tools:</strong> TensorFlow, Transfer Learning</p>
       <p>NeuroVox is a speech-to-speech AI psychiatrist that uses advanced Transfer Learning models to offer emotional insights and therapeutic dialogues.</p>
       <a href="https://github.com/rahulsomanathan/neurovox" target="_blank">🔗 View Project</a>
     </td>
