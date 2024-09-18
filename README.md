@@ -6,7 +6,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul-somanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahul-somanathan/rahul-somanathan/master/assets/social/linked-in-alt.svg" alt="rahul-somanathan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-somanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahul-somanathan/rahul-somanathan/master/assets/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rahulsomanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahul-somanathan/rahul-somanathan/master/assets/social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://medium.com/@rahul-somanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahul-somanathan/rahul-somanathan/master/assets/social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://discord.com/users/999426328065486899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahul-somanathan/rahul-somanathan/master/assets/social/discord.svg" alt="medium" height="30" width="40" /></a>
+
+  
 </p>
 
 Welcome to my GitHub profile! I am a passionate developer with a deep love for AI, machine learning, and scalable solutions. With over 5 years of experience in full-stack development and various AI/ML projects, my goal is to build impactful tech solutions that solve real-world problems.
